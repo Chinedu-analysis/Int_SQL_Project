@@ -91,5 +91,5 @@
 
 ## Technical Details
 - **Database:** PostgreSQL
-- **Analysis Tools:** PostgreSQL, Dbeaver
+- **Analysis Tools:** PostgreSQL, Dbeaver, PGadmin
 - **Visualization:** ChatGPT
